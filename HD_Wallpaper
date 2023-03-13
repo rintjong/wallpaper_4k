@@ -2,23 +2,23 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "null",
+      "main_ads_intertitial":"ca-app-pub-9200602507152446/1712099938",
+      "main_ads_natives":"ca-app-pub-9200602507152446/5499032205",
+      "main_ads_rewards":"ca-app-pub-9200602507152446/8125195548",
+      "backup_ads_natives":"d3501abc25fa613f",
+      "backup_ads_banner":"b75f6ada042faa59",
+      "backup_ads_intertitial":"312f6efdb6c92073",
+      "backup_ads_rewards":"11613fca9c566de7",
+      "open_ads_admob":"ca-app-pub-9200602507152446/7044317662",
+      "open_ads_alien":"null",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
       "on_off_native_listview":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "interval_intertitial": 7,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -31,23 +31,12 @@
   ],
   "More":
   [
+    
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Wallpaper Aesthetic Cool",
+      "image":"https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
     }
   ],
 
